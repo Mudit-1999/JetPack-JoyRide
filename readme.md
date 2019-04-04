@@ -2,7 +2,7 @@
 
 ## Usage
 ```
-cd a1_20171090
+cd JetPack-JoyRide
 mkdir build
 cd build
 cmake ..
